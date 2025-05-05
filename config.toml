@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://danglingptr0x0.github.io/DanglingPtr/"
+base_url = "https://danglingptr.io/"
 theme = "terminimal"
 output_dir = "docs"
 
