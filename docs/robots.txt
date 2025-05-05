@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://danglingptr0x0.github.io/DanglingPtr/sitemap.xml
+Sitemap: https://danglingptr.io/sitemap.xml
